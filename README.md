@@ -9,7 +9,7 @@ Prerequisuites:
 Steps:
 1. Key Windows + r than type shell:startup
 2. Right click -> new Shortcut
-3. Paste path in template "path to pythonw" "path to this python script" for example "C:/Users/mateu/miniconda3/pythonw.exe" "C:\Users\mateu\PycharmProjects\PythonProject\killerQueue.pyw"
+3. Paste path in template "path to pythonw" "path to this python script" for example "C:/Users/mateu/miniconda3/pythonw.exe" "C:\Users\mateu\PycharmProjects\PythonProject\killerQueue.pyw". Important use pythonw.exe not python.exe!!!
 4. To test, double-click the shortcut and check if the icon appears in the system tray.
 5. Enjoy!
 
